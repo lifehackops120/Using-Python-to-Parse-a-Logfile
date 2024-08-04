@@ -25,7 +25,7 @@ Installation
 Clone this repository:
 sh
 Copy code
-git clone https://github.com/yourusername/using-python-to-parse-a-logfile.git
+git clone https://github.com/lifehackops120/Using-Python-to-Parse-a-Logfile.git
 Navigate to the project directory:
 sh
 Copy code
